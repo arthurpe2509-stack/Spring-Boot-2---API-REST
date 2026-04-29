@@ -102,4 +102,12 @@
       "response": []
     }
   ]
+    {
+      "name": "Trouver un livre par son titre",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    } 
 }
